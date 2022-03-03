@@ -10,4 +10,5 @@
 - [机器学习](./知识点/机器学习)
 - [机器学习问题](./知识点/面试相关/机器学习问题.md)
 - [百面机器学习](./知识点/面试相关/百面机器学习.md)
+- [Python面试题](https://github.com/Xiaofei-fei/python_interview_question)
 
