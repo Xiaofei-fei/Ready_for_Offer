@@ -7,5 +7,5 @@
 - [高频面题](./知识点/面试相关/高频面题.md)
 - [算法模板](./知识点/面试相关/算法基础框架.md)
 - [机器学习](./知识点/机器学习)
-- [Company_Pooling](./知识点/面试相关/Company Pooing.md)
+- [Pooling](./知识点/面试相关/Company Pooing.md)
 
